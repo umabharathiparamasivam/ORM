@@ -59,7 +59,7 @@ admin.site.register(Vehicle_DB,Vehicle_DBAdmin)
 
 
 ## OUTPUT
-
+![alt text](<Screenshot 2026-10-06 222843-1.png>)
 
 
 ## RESULT
